@@ -1,0 +1,36 @@
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.deps.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\refint\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPServices\obj\Debug\net6.0\ref\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.deps.json
+C:\Users\pabit\Downloads\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\OTPServices\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.csproj.AssemblyReference.cache
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfoInputs.cache
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfo.cs
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.csproj.CoreCompileInputs.cache
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\refint\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\OTPServices\obj\Debug\net6.0\ref\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\bin\Debug\net6.0\OTPServices.deps.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\refint\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPServices\obj\Debug\net6.0\ref\OTPServices.dll

@@ -1,0 +1,357 @@
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.deps.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\refint\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.genruntimeconfig.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\obj\Debug\net6.0\ref\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.exe
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.exe
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.deps.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.runtimeconfig.json
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\TOTP.Test.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.AssemblyReference.cache
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfoInputs.cache
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfo.cs
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CoreCompileInputs.cache
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CopyComplete
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\refint\TOTP.Test.dll
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.pdb
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\TOTP.Test.genruntimeconfig.cache
+C:\Users\pabit\Downloads\OTPapi\TOTP.Test\obj\Debug\net6.0\ref\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPapi.exe
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\TOTP.Test.deps.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\TOTP.Test.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\TOTP.Test.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\refint\TOTP.Test.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\TOTP.Test.genruntimeconfig.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\TOTP.Test\obj\Debug\net6.0\ref\TOTP.Test.dll

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OTPapi", "OTPapi\OTPapi.csproj", "{4D875C46-592D-4F0A-8282-967F1D7795C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OTPServices", "OTPServices\OTPServices.csproj", "{3E24C4BA-456A-4373-9FF2-97564152DA6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBAccess", "DBAccess\DBAccess.csproj", "{189702A8-865A-44D1-B6AE-006D3E07FDB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TOTP.Test", "TOTP.Test\TOTP.Test.csproj", "{9B2455E0-054F-4160-970E-A069727EDD31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{BD0360FE-7451-4C7A-BC36-81C51AC6617E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{65DB7979-B7CE-476E-9195-514CA13D2838}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{679EA252-5D1B-4001-82E7-50277E84ECB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D875C46-592D-4F0A-8282-967F1D7795C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D875C46-592D-4F0A-8282-967F1D7795C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D875C46-592D-4F0A-8282-967F1D7795C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D875C46-592D-4F0A-8282-967F1D7795C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E24C4BA-456A-4373-9FF2-97564152DA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E24C4BA-456A-4373-9FF2-97564152DA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E24C4BA-456A-4373-9FF2-97564152DA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E24C4BA-456A-4373-9FF2-97564152DA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189702A8-865A-44D1-B6AE-006D3E07FDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189702A8-865A-44D1-B6AE-006D3E07FDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189702A8-865A-44D1-B6AE-006D3E07FDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189702A8-865A-44D1-B6AE-006D3E07FDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2455E0-054F-4160-970E-A069727EDD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2455E0-054F-4160-970E-A069727EDD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2455E0-054F-4160-970E-A069727EDD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2455E0-054F-4160-970E-A069727EDD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DB7979-B7CE-476E-9195-514CA13D2838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DB7979-B7CE-476E-9195-514CA13D2838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DB7979-B7CE-476E-9195-514CA13D2838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DB7979-B7CE-476E-9195-514CA13D2838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65DB7979-B7CE-476E-9195-514CA13D2838} = {BD0360FE-7451-4C7A-BC36-81C51AC6617E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83CE44D-7C07-49A8-A504-9A2A49342CB4}
+	EndGlobalSection
+EndGlobal

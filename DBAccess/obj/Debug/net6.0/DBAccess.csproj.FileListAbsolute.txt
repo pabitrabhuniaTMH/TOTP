@@ -1,0 +1,45 @@
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.deps.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\refint\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\DBAccess\obj\Debug\net6.0\ref\DBAccess.dll
+C:\Users\pabit\Downloads\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.deps.json
+C:\Users\pabit\Downloads\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.dll
+C:\Users\pabit\Downloads\OTPapi\DBAccess\bin\Debug\net6.0\DBAccess.pdb
+C:\Users\pabit\Downloads\OTPapi\DBAccess\bin\Debug\net6.0\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\DBAccess\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.AssemblyReference.cache
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfoInputs.cache
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfo.cs
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CopyComplete
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.dll
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\refint\DBAccess.dll
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\DBAccess.pdb
+C:\Users\pabit\Downloads\OTPapi\DBAccess\obj\Debug\net6.0\ref\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\bin\Debug\net6.0\DBAccess.deps.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\bin\Debug\net6.0\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\bin\Debug\net6.0\DBAccess.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\refint\DBAccess.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\DBAccess.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\DBAccess\obj\Debug\net6.0\ref\DBAccess.dll

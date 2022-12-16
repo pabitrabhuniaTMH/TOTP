@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tV6fJHlGcB3Fmgju5L4CB38wDadP/P75lG1Ed5x+nF3xmqhvDt97pAG2BuXvqSY0wslYDl7M7k08cp6BvIv39g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pabitra Bhunia\\source\\TOTP GIT\\OTPServices\\OTPServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pabitra Bhunia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pabitra Bhunia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pabitra Bhunia\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pabitra Bhunia\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512",
+    "C:\\Users\\Pabitra Bhunia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,99 @@
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.exe
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\scopedcss\bundle\OTPapi.styles.css
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\refint\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.genruntimeconfig.cache
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\obj\Debug\net6.0\ref\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pabitra Bhunia\source\repos\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\appsettings.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.exe
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPServices.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.AssemblyReference.cache
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfoInputs.cache
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfo.cs
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CoreCompileInputs.cache
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\scopedcss\bundle\OTPapi.styles.css
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CopyComplete
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\refint\OTPapi.dll
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.pdb
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\OTPapi.genruntimeconfig.cache
+C:\Users\pabit\Downloads\OTPapi\OTPapi\obj\Debug\net6.0\ref\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPapi.exe
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPapi.deps.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPapi.runtimeconfig.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Otp.NET.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPServices.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\bin\Debug\net6.0\OTPServices.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.csproj.AssemblyReference.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfoInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.AssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\scopedcss\bundle\OTPapi.styles.css
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.csproj.CopyComplete
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\refint\OTPapi.dll
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.pdb
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\OTPapi.genruntimeconfig.cache
+C:\Users\Pabitra Bhunia\source\TOTP GIT\OTPapi\obj\Debug\net6.0\ref\OTPapi.dll
